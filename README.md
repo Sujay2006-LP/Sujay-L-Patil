@@ -25,18 +25,6 @@
 
 ---
 
-## 📌 Projects
-### 1. Dice Roller
-A simple Kotlin Android app that simulates a dice roll using random number generation and dynamic UI updates.
-### 2. Tip Calculator 
-A Kotlin-based app that quickly calculates tips from a bill amount with real-time results and a clean interface.
-
-
-### 3.Art-Space 
-A Kotlin Android app that showcases artworks with navigation, titles, and descriptions using interactive UI components.
-
----
-
 ## 🏅 Google Developers Profile
 - 🔗 Profile:https://developers.google.com/profile/u/117965779892173581458
 
